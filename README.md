@@ -52,9 +52,11 @@
 
 ## 🔥 My GitHub Stats
 
+## 🔥 My GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bibhukiju&show_icons=true&theme=radical" alt="Bibhu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibhukiju&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bibhukiju&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibhukiju&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
