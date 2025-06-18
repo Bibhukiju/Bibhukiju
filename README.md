@@ -1,7 +1,5 @@
 <!-- Profile GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Bibhu Kiju</h1>
 <h3 align="center">Flutter & Full-Stack Developer | Building for Performance and UX</h3>
