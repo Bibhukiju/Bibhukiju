@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **Modern apps using Flutter + Firebase**
+- 🔭 Currently building: **Modern apps using Flutter + API Integration**
 - 🌱 Learning more about: **Next.js 14, Zustand, and Clean Architecture**
-- 💬 Ask me about: **Flutter performance, state management (Bloc, Riverpod), and building offline-first apps**
-- 🧠 Exploring: **3D models integration in web & AI-assisted app experiences**
+- 💬 Ask me about: **Flutter performance, state management (Bloc,Cubit), and building offline-first apps**
+- 🧠 Exploring: **Deep dive on backend and mobile apps deployment**
 - 🌍 Based in: **Nepal 🇳🇵**
 - ✍️ Side Passion: **Writing clean, readable, and scalable code**
 
@@ -35,10 +35,11 @@
 
 **State Management**  
 ![Bloc](https://img.shields.io/badge/-Bloc-00B4AB?style=flat&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-Riverpod-7D4BE0?style=flat)
 ![Zustand](https://img.shields.io/badge/-Zustand-181717?style=flat&logo=github&logoColor=white)
 
 **Database**  
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Sembast](https://img.shields.io/badge/-Sembast-009688?style=flat)
